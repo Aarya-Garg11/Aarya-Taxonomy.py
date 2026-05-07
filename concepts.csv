@@ -1,0 +1,48 @@
+rank,concept,pos,source,tfidf_score
+1,edge,NOUN,demanding edge,0.2172
+2,environment,NOUN,edge environments,0.2172
+3,intel,PROPN,on intel,0.2172
+4,platform,NOUN,platform is,0.2172
+5,processor,NOUN,xeon processors,0.2172
+6,xeon,PROPN,xeon processors,0.2172
+7,chassis,NOUN,chassis helps,0.1787
+8,aircraft,NOUN,aircraft,0.0
+9,assurance,NOUN,high-assurance environments,0.0
+10,celsius,NOUN,55 degrees celsius,0.0
+11,compute,NOUN,all-new hpe proliant compute el2000 chassis,0.0
+12,contaminant,NOUN,environmental contaminants,0.0
+13,cores1,NOUN,6 cores1 support,0.0
+14,cpu,NOUN,space-saving cpu thermal design power,0.0
+15,degree,NOUN,55 degrees celsius,0.0
+16,design,NOUN,space-saving cpu thermal design power,0.0
+17,edition,NOUN,nvidia rtx pro 4500 or nvidia rtx pro 6000 blackwell server edition gpus,0.0
+18,el2000,NOUN,all-new hpe proliant compute el2000 chassis,0.0
+19,el220,PROPN,el220 gen12 servers,0.0
+20,el240,NOUN,one el240 gen12 server,0.0
+21,enterprise,NOUN,nvidia ai enterprise,0.0
+22,flexibility,NOUN,modular flexibility,0.0
+23,gen12,PROPN,one el240 gen12 server,0.0
+24,government,NOUN,government-ready software,0.0
+25,gpu,NOUN,nvidia rtx pro 4500 or nvidia rtx pro 6000 blackwell server edition gpus,0.0
+26,ground,NOUN,ground vehicles,0.0
+27,hpe,NOUN,all-new hpe proliant compute el2000 chassis,0.0
+28,interference,NOUN,electromagnetic interference,0.0
+29,nvidia,PROPN,nvidia rtx pro 4500 or nvidia rtx pro 6000 blackwell server edition gpus,0.0
+30,operation,NOUN,reliable operation,0.0
+31,performance,NOUN,rugged performance,0.0
+32,power,NOUN,space-saving cpu thermal design power,0.0
+33,retail,NOUN,retail,0.0
+34,rtx,NOUN,nvidia rtx pro 4500 or nvidia rtx pro 6000 blackwell server edition gpus,0.0
+35,security,NOUN,rigorous security standards,0.0
+36,server,NOUN,nvidia rtx pro 4500 or nvidia rtx pro 6000 blackwell server edition gpus,0.0
+37,size,NOUN,most rugged and size,0.0
+38,software,NOUN,government-ready software,0.0
+39,space,NOUN,space-saving cpu thermal design power,0.0
+40,standard,NOUN,rigorous security standards,0.0
+41,support,NOUN,6 cores1 support,0.0
+42,telecommunication,NOUN,telecommunications,0.0
+43,temperature,NOUN,extreme temperatures,0.0
+44,vehicle,NOUN,ground vehicles,0.0
+45,vibration,NOUN,heavy vibration,0.0
+46,watt,NOUN,up to 350 watts,0.0
+47,weight,NOUN,weight,0.0
