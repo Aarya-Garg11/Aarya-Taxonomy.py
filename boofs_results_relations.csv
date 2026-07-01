@@ -1,0 +1,31 @@
+subject,relation,object,confidence,source,evidence
+bill,EDUCATION_FIELD,friends,0.454,frame_based_partial,"
+    Bill and Dave became friends when Dave were both engineering students at Stanford.
+    "
+bill,EDUCATION_DEGREE,friends,0.454,frame_based_partial,"
+    Bill and Dave became friends when Dave were both engineering students at Stanford.
+    "
+dave,WORKS_FOR,lucile salter,0.598,frame_based,"After graduation, Dave took a job with General Electric and moved to Schenectady,
+    New York, where Schenectady married Schenectady college sweetheart Lucile Salter in 1938.
+    "
+schenectady,FAMILY_TIME,1938,0.689,frame_based_partial,"After graduation, Dave took a job with General Electric and moved to Schenectady,
+    New York, where Schenectady married Schenectady college sweetheart Lucile Salter in 1938.
+    "
+bill,LOCATION,live,0.441,frame_based_partial,Bill scouted for places where the newlyweds could live.
+dave,LOCATION,live,0.63,frame_based_partial,"Dave and Lucile would live in the downstairs flat,
+    while Bill would bunk in a tiny backyard shed where there was indoor plumbing and just enough
+    room for a cot."
+bill,SIMILAR_TO,dave,0.25,distributional_similarity,"cluster 0 signature=['Dave', '\n    ', 'Lucile']"
+bill,SIMILAR_TO,ge,0.25,distributional_similarity,"cluster 0 signature=['Dave', '\n    ', 'Lucile']"
+dave,SIMILAR_TO,ge,0.25,distributional_similarity,"cluster 0 signature=['Dave', '\n    ', 'Lucile']"
+stanford,SIMILAR_TO,1938,0.25,distributional_similarity,cluster 1 signature=[]
+stanford,SIMILAR_TO,two,0.25,distributional_similarity,cluster 1 signature=[]
+stanford,SIMILAR_TO,california,0.25,distributional_similarity,cluster 1 signature=[]
+stanford,SIMILAR_TO,367,0.25,distributional_similarity,cluster 1 signature=[]
+1938,SIMILAR_TO,two,0.25,distributional_similarity,cluster 1 signature=[]
+1938,SIMILAR_TO,california,0.25,distributional_similarity,cluster 1 signature=[]
+1938,SIMILAR_TO,367,0.25,distributional_similarity,cluster 1 signature=[]
+two,SIMILAR_TO,california,0.25,distributional_similarity,cluster 1 signature=[]
+two,SIMILAR_TO,367,0.25,distributional_similarity,cluster 1 signature=[]
+california,SIMILAR_TO,367,0.25,distributional_similarity,cluster 1 signature=[]
+schenectady,SIMILAR_TO,bill bill,0.25,distributional_similarity,"cluster 2 signature=['Bill', ',', 'York']"

@@ -1,0 +1,11 @@
+frame_type,trigger,slot_name,slot_value,confidence,negated
+EDUCATION,student,STUDENT,Bill,0.63,False
+EDUCATION,student,FIELD,friends,0.504,False
+EDUCATION,student,DEGREE,friends,0.504,False
+EMPLOYMENT,job,EMPLOYEE,Dave,0.63,False
+EMPLOYMENT,job,EMPLOYER,Lucile Salter,0.63,False
+FAMILY,marry,PERSON1,Schenectady,0.9,False
+FAMILY,marry,TIME,1938,0.765,False
+EMPLOYMENT,job,EMPLOYER,GE,0.765,False
+LOCATION,live,ENTITY,Bill,0.63,False
+LOCATION,live,ENTITY,Dave,0.9,False

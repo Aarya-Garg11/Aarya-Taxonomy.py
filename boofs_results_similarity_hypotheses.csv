@@ -1,0 +1,15 @@
+subject,relation,object,confidence,source,evidence
+bill,SIMILAR_TO,dave,0.25,distributional_similarity,"cluster 0 signature=['Dave', '\n    ', 'Lucile']"
+bill,SIMILAR_TO,ge,0.25,distributional_similarity,"cluster 0 signature=['Dave', '\n    ', 'Lucile']"
+dave,SIMILAR_TO,ge,0.25,distributional_similarity,"cluster 0 signature=['Dave', '\n    ', 'Lucile']"
+stanford,SIMILAR_TO,1938,0.25,distributional_similarity,cluster 1 signature=[]
+stanford,SIMILAR_TO,two,0.25,distributional_similarity,cluster 1 signature=[]
+stanford,SIMILAR_TO,california,0.25,distributional_similarity,cluster 1 signature=[]
+stanford,SIMILAR_TO,367,0.25,distributional_similarity,cluster 1 signature=[]
+1938,SIMILAR_TO,two,0.25,distributional_similarity,cluster 1 signature=[]
+1938,SIMILAR_TO,california,0.25,distributional_similarity,cluster 1 signature=[]
+1938,SIMILAR_TO,367,0.25,distributional_similarity,cluster 1 signature=[]
+two,SIMILAR_TO,california,0.25,distributional_similarity,cluster 1 signature=[]
+two,SIMILAR_TO,367,0.25,distributional_similarity,cluster 1 signature=[]
+california,SIMILAR_TO,367,0.25,distributional_similarity,cluster 1 signature=[]
+schenectady,SIMILAR_TO,bill bill,0.25,distributional_similarity,"cluster 2 signature=['Bill', ',', 'York']"

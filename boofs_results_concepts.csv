@@ -1,0 +1,47 @@
+concept,type,surface,confidence,sources
+bill,PERSON,Bill,0.9,NER
+dave,PERSON,Dave,0.9,NER
+stanford,ORG,Stanford,0.9,NER
+general electric,ORG,General Electric,0.9,NER
+schenectady,PERSON,Schenectady,0.9,NER
+new york,GPE,New York,0.9,NER
+lucile salter,ORG,Lucile Salter,0.9,NER
+1938,DATE,1938,0.9,NER
+two,CARDINAL,two,0.9,NER
+fred terman,PERSON,Fred Terman,0.9,NER
+ge,ORG,GE,0.9,NER
+california,GPE,California,0.9,NER
+367,CARDINAL,367,0.9,NER
+"addison
+    avenue",ORG,"Addison
+    Avenue",0.9,NER
+palo alto,GPE,Palo Alto,0.9,NER
+45,MONEY,45,0.9,NER
+bill bill,PERSON,Bill Bill,0.9,NER
+a job,CONCEPT,a job,0.6,NOUN_CHUNK
+schenectady college sweetheart lucile salter,CONCEPT,Schenectady college sweetheart Lucile Salter,0.6,NOUN_CHUNK
+bill former professor fred terman,CONCEPT,Bill former professor Fred Terman,0.6,NOUN_CHUNK
+a technology company,CONCEPT,a technology company,0.6,NOUN_CHUNK
+a leave,CONCEPT,a leave,0.6,NOUN_CHUNK
+fred terman job,CONCEPT,Fred Terman job,0.6,NOUN_CHUNK
+new bride,CONCEPT,new bride,0.6,NOUN_CHUNK
+a use drill press,CONCEPT,a used drill press,0.6,NOUN_CHUNK
+an important piece,CONCEPT,an important piece,0.6,NOUN_CHUNK
+the new venture,CONCEPT,the new venture,0.6,NOUN_CHUNK
+the rumble seat,CONCEPT,the rumble seat,0.6,NOUN_CHUNK
+the newlywed,CONCEPT,the newlyweds,0.6,NOUN_CHUNK
+the ideal rental,CONCEPT,the ideal rental,0.6,NOUN_CHUNK
+"367 addison
+    avenue",CONCEPT,"367 Addison
+    Avenue",0.6,NOUN_CHUNK
+the downstairs flat,CONCEPT,the downstairs flat,0.6,NOUN_CHUNK
+a tiny backyard shed,CONCEPT,a tiny backyard shed,0.6,NOUN_CHUNK
+indoor plumbing,CONCEPT,indoor plumbing,0.6,NOUN_CHUNK
+a cot,CONCEPT,a cot,0.6,NOUN_CHUNK
+the property,CONCEPT,the property,0.6,NOUN_CHUNK
+bill need,CONCEPT,Bill needs,0.6,NOUN_CHUNK
+"the
+    small garage",CONCEPT,"the
+    small garage",0.6,NOUN_CHUNK
+the landlady,CONCEPT,the landlady,0.6,NOUN_CHUNK
+a workshop,CONCEPT,a workshop,0.6,NOUN_CHUNK
